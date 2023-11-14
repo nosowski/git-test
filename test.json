@@ -1,0 +1,7 @@
+[{
+    "targets": ["10.83.40.74"],
+    "labels": {
+        "__meta_prometheus_job:": "mvp_mvp.fra1-2",
+        "mvp_env": "mvp.fra1-2"
+    }
+}]
